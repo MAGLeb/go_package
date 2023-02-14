@@ -1,4 +1,4 @@
-package math
+package go_package
 
 
 func Add(a, b int) int {
